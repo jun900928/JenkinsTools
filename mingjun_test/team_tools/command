@@ -1,0 +1,1 @@
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/clone_a_job.pl -old_job=z_mingjunl_test1 -new_job=z_mingjunl_test123123 -manifest_branch=mlmp-stable2-thea-p2 -tag_info_prefix=LXB22.99-24-Thea -job_description description.txt

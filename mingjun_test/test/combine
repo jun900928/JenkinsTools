@@ -1,0 +1,6 @@
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/add_permissions_for_user_to_job.pl -job_build -job_cancel -job_read aaaaaaaaaa name1
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/add_permissions_for_user_to_job.pl -job_build -job_cancel -job_read aaaaaaaaaa name2
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/add_permissions_for_user_to_job.pl -job_build -job_cancel -job_read aaaaaaaaaa name3
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/add_permissions_for_user_to_job.pl -job_build -job_cancel -job_read aaaaaaaaaa name4
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/add_permissions_for_user_to_job.pl -job_build -job_cancel -job_read aaaaaaaaaa name5
+/apps/tools/scm_tools/hudson_tools/Jenkins_config/add_permissions_for_user_to_job.pl -job_build -job_cancel -job_read aaaaaaaaaa 

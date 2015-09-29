@@ -1,0 +1,36 @@
+######################################################################################################################################################
+
+The following projects have been running more than 4 hours and should be looked at to
+determine if they are hung:
+
+======================================================================================================================================================
+z_aav034_backlog_Big_Query__COMMITS_Dataset_Export                              
+Build #258   - 9 hours, 2 minutes, 24 seconds
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Last 20 lines of the log
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Processed 1525000 rows so far
+Processed 1530000 rows so far
+Processed 1535000 rows so far
+Processed 1540000 rows so far
+Processed 1545000 rows so far
+Processed 1550000 rows so far
+Processed 1555000 rows so far
+Processed 1560000 rows so far
+Processed 1565000 rows so far
+Processed 1570000 rows so far
+Processed 1575000 rows so far
+Processed 1580000 rows so far
+Processed 1585000 rows so far
+Processed 1590000 rows so far
+Processed 1595000 rows so far
+Processed 1600000 rows so far
+Processed 1605000 rows so far
+Processed 1610000 rows so far
+Processed 1615000 rows so far
+Processed 1620000 rows so far
+
+======================================================================================================================================================
+
+
+
